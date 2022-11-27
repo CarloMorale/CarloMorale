@@ -1,10 +1,18 @@
 # Carlos A Morales
 
-- 👋 Hi, I’m @CarloMorale
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Mi nombre es Carlos A Morales, actualmente en preparación para el mundo laboral.
+
+## 👁‍🗨 Lenguajes/frameworks conocidos
+
+**Lenguajes**
+
+- Python (para uso de Django).
+
+**Frameworks**
+
+- Django (dominio moderado).
+- React (dominio bajo).
+- Node.js (dominio bajo).
 
 <!---
 CarloMorale/CarloMorale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
