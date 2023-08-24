@@ -1,6 +1,6 @@
 # About
 
-Mi nombre es Carlos A Morales, actualmente en preparación para el mundo laboral.
+Mi nombre es Carlos A Morales, desarrollador Android con algo de web.
 
 ## 👁‍🗨 Lenguajes/frameworks conocidos
 
